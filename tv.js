@@ -9,4 +9,4 @@ var TV = /** @class */ (function () {
 }());
 exports.TV = TV;
 var tv = new TV();
-tv.remote.turnOn("television is on from tv class");
+tv.remote.turnOn("From tv class");

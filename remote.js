@@ -3,6 +3,7 @@ exports.__esModule = true;
 var Remote = /** @class */ (function () {
     function Remote() {
     }
+    //tv: TV;
     Remote.prototype.turnOn = function (string) {
         console.log("Tv is on from remote");
     };
