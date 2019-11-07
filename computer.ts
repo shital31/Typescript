@@ -1,4 +1,4 @@
-import { CPU } from './compdepndent';
+import { CPU } from './comp_dep';
 export class Computer{
    cpu:CPU
     constructor(
